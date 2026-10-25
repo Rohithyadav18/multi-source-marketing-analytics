@@ -88,9 +88,7 @@ All unit tests pass - validating core business logic, data transformations, and 
 
 ## Maintainer
 
-This project is actively maintained by Siddarth Mally.
+This project is maintained by Rohith Mogili Golla (Supply Chain Analyst, Chicago, IL).
 
-Siddarth is a Cybersecurity Analyst with a passion for robust data pipelines and secure system architectures.
-You can connect with Siddarth via:
--   **LinkedIn**: https://www.linkedin.com/in/siddarth-mally-451565242/
--   **Email**: siddarthmally38@gmail.com
+-   **LinkedIn**: https://www.linkedin.com/in/rohith-mogili-golla
+-   **Email**: rohithmogiligolla88@gmail.com
